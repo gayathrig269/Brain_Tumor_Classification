@@ -28,7 +28,7 @@ pybase64
 numpy
 regex
 tensorflow
-matplotlib.pyplot
+matplotlib
 seaborn
 cv2
 ImageDataGenerator
