@@ -31,8 +31,6 @@ tensorflow
 matplotlib
 seaborn
 tqdm 
-os
-shuffle
 train_test_split
 EfficientNetB0
 EarlyStopping
@@ -41,5 +39,3 @@ TensorBoard
 ModelCheckpoint
 classification_report
 confusion_matrix
-ipywidgets
-io
