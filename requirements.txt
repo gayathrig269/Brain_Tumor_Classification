@@ -30,9 +30,4 @@ regex
 tensorflow
 matplotlib
 seaborn
-tqdm 
-EfficientNetB0
-EarlyStopping
-ReduceLROnPlateau
-TensorBoard
-ModelCheckpoint
+tqdm
