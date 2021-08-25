@@ -31,11 +31,8 @@ tensorflow
 matplotlib
 seaborn
 tqdm 
-train_test_split
 EfficientNetB0
 EarlyStopping
 ReduceLROnPlateau
 TensorBoard
 ModelCheckpoint
-classification_report
-confusion_matrix
