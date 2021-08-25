@@ -30,7 +30,6 @@ regex
 tensorflow
 matplotlib
 seaborn
-cv2
 ImageDataGenerator
 tqdm 
 os
