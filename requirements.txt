@@ -30,7 +30,6 @@ regex
 tensorflow
 matplotlib
 seaborn
-ImageDataGenerator
 tqdm 
 os
 shuffle
