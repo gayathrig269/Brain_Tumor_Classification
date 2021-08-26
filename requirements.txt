@@ -28,6 +28,5 @@ pybase64
 numpy
 regex
 tensorflow
-matplotlib
 seaborn
 tqdm
