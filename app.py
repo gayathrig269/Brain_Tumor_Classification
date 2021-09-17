@@ -1,25 +1,3 @@
-import dash
-from dash.dependencies import Input, Output, State
-import dash_core_components as dcc
-import dash_html_components as html
-from dash import no_update
-import base64
-import io
-from io import BytesIO
-import re
-import keras
-from keras.models import Sequential
-from keras.layers import Dense, Dropout, Flatten
-from keras.layers import Conv2D, MaxPooling2D, Conv3D, BatchNormalization, Activation
-from keras import backend as K
-import os
-from PIL import Image
-import numpy as np
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import OneHotEncoder
-import pandas as pd
-from keras.models import load_model
-
 classes = ['glioma_tumor', 'meningioma_tumor', 'no_tumor', 'pituitary_tumor']
 
 enc = OneHotEncoder()
